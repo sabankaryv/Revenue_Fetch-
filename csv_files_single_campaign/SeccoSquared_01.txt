@@ -1,0 +1,7 @@
+network_offer_id,offer_name,sub1,sub2,sub3,sub4,sub5,impressions,total_clicks,unique_clicks,duplicate_clicks,invalid_clicks,CV,view_through_conversions,events,CVR,EVR,RPC,CTR,revenue,redirect_traffic_revenue,RPM
+418995,"Tex Camp Lejeune Mass Tort CPL Email Only {US} ",go5duu9y8_qxdmlN2Kbi19n,N/A,gwr0001|3yvet|be7114,qxdCampisdN20H,1009a0h|00006v,0,0,0,0,3,0,0,0,0.00,0.00,0.000,0.000,0.00,0.00,0.000
+418995,"Tex Camp Lejeune Mass Tort CPL Email Only {US} ",kkipqtuxs_qxdhyN2Kma19l,N/A,ref_02|0tinr|be6f47,qxdCampisdN20H,02ocloi|000607,0,0,0,0,5,0,0,0,0.00,0.00,0.000,0.000,0.00,0.00,0.000
+418995,"Tex Camp Lejeune Mass Tort CPL Email Only {US} ",aagarl528_qxdadN2Kbc19d,N/A,cali_pix0001|207h2|be7114,qxdCampisdN20H,1009ad7|00eigy,0,0,0,0,3,0,0,0,0.00,0.00,0.000,0.000,0.00,0.00,0.000
+418615,Camp Lejeune Mass Tort CPL {US},aago4n6gj_ykral41rqm19m,N/A,ref_01|0bhsp|bb1f7e,ykrcampkamaholkhtamhai,10e4dik|000013,0,0,0,0,5,0,0,0,0.00,0.00,0.000,0.000,0.00,0.00,0.000
+418995,"Tex Camp Lejeune Mass Tort CPL Email Only {US} ",n6bpxzyko_cyuahK4Jmd19o,N/A,pix0001|0i9uv|bcf4b2,cyucyu1LqKWRTd418995,2k9tip7|003zly,0,0,0,0,1,0,0,0,0.00,0.00,0.000,0.000,0.00,0.00,0.000
+418995,"Tex Camp Lejeune Mass Tort CPL Email Only {US} ",vaslji8r6_fdbprrt7pm19k,N/A,pix0001|13193|beae21,fdbcanmpoudfggf,1bvc36o|00el8g,0,0,0,0,2,0,0,0,0.00,0.00,0.000,0.000,0.00,0.00,0.000
